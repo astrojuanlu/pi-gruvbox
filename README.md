@@ -36,6 +36,8 @@ pi --theme /path/to/pi-gruvbox/themes --use-theme gruvbox-dark
 
 ## Preview
 
+![pi with the gruvbox-dark theme](pi-gruvbox.png)
+
 | Token | Color |
 |-------|-------|
 | accent / warning | `#fabd2f` gruvbox bright yellow |
