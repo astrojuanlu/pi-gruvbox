@@ -15,6 +15,6 @@
 	},
 	"pi": {
 		"themes": ["./themes"],
-		"image": "pi-gruvbox.png"
+		"image": "https://raw.githubusercontent.com/astrojuanlu/pi-gruvbox/main/pi-gruvbox.png"
 	}
 }
