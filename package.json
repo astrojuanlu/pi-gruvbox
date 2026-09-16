@@ -1,0 +1,19 @@
+{
+	"name": "pi-gruvbox",
+	"version": "0.1.0",
+	"description": "Gruvbox Dark theme for pi, matching the classic morhetz palette",
+	"keywords": [
+		"pi-package",
+		"pi-theme",
+		"gruvbox",
+		"theme",
+		"dark"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/astrojuanlu/pi-gruvbox.git"
+	},
+	"pi": {
+		"themes": ["./themes"]
+	}
+}
