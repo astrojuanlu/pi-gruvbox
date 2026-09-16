@@ -1,6 +1,6 @@
 # pi-gruvbox
 
-![Warning: Vibe Coded](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F_warning-vibe_coded-orange?style=flat)
+![Warning: Vibe Coded](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F_warning-vibe_coded-orange?style=flat) [![Open on npmx.dev](https://npmx.dev/api/registry/badge/version/pi-gruvbox)](https://npmx.dev/package/pi-gruvbox)
 
 [Gruvbox Dark](https://github.com/morhetz/gruvbox) theme for [pi](https://pi.dev), built on the
 classic morhetz palette — the same one used by the `gruvbox-dark` bat theme and the gruvbox
